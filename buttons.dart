@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// creating Stateless Widget for buttons
+//Widget for buttons
 class MyButton extends StatelessWidget {
 
 // declaring variables
